@@ -62,7 +62,7 @@ end
 
 def adding_matz
  
-  hash = }
+  hash = {
     :yukihiro_matsumoto => {
     :known_for => "Ruby",
     :languages => ["LISP", "C"] 
